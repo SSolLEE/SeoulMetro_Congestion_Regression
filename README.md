@@ -111,6 +111,7 @@ Project at MultiCampus
 ### DASHBOARD
 - 최종혼잡도를 평균 또는 표준편차로 처리하여 사용자들이 노선별, 각 역별 혼잡도의 대략적인 경향성을 확인할 수 있도록 제작하였습니다.
 - 요일별 혼잡도는 파이 차트로, 시간대별 혼잡도는 상/하선 구분하여 선 그래프로, 시간대와 역을 한번에 볼 수 있는 것은 히트맵으로 구현하였습니다.
+  
 ![image](https://github.com/SSolLEE/SeoulMetro_Congestion_Regression/assets/139443410/72104785-dc4e-4192-a893-bb231a147165)
 
 ### LOGIC
